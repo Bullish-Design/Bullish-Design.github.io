@@ -1,0 +1,7 @@
+#+hugo_base_dir: ../
+
+* First Post Trial :tag1:@category1:
+:PROPERTIES:
+:EXPORT_FILE_NAME: First-post
+:END:
+First post tryout.

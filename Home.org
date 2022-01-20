@@ -6,7 +6,7 @@
   :PROPERTIES:
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
   :EXPORT_HUGO_MENU: :menu main
-  :EXPORT_HUGO_SECTION: pages
+  :EXPORT_HUGO_SECTION: Site-Content/Posts
   :EXPORT_HUGO_WEIGHT: auto
   :END:
 ** Page Title
@@ -18,7 +18,7 @@
 
 * Posts
   :PROPERTIES:
-  :EXPORT_HUGO_SECTION: blog
+  :EXPORT_HUGO_SECTION: Site_Content/Blog
   :END:
 ** Topic                                                             :@topic:
 *** DONE Post Title                                               :post:tags:

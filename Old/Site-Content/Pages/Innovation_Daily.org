@@ -1,0 +1,42 @@
+#+TITLE: Innovation Daily
+#+SETUPFILE: G:/My Drive/Emacs Sync/Code/Site Config/org-html-themes/org/theme-readtheorg-local.setup
+#+OPTIONS: num:nil toc:nil
+
+Overview of Innovation Daily
+
+* Goal
+Have a auto populating template to examine the most impactful (most referenced?) patent that is expiring today. Write a short article explaining it and its impact. Look at history of who invented it, the company that invented it, products it was used in, and why it's important/innovative.
+
+Eventually build into making a 3d CAD model demonstrating the functionality of the patent, and examining key patentable features.
+
+Eventually build into rapid design of a new to market product utilizing that (now-free) patent's functionality.
+
+* Project Overview:
+** Patent API Access:
+*** Grab patents expiring today
+*** Sort by most citations
+*** Pull Patent images and text (or just open and scrape Google Patents?)
+*** Repeat for patents that cite expired patent
+
+** Patent history:
+*** Google search for Inventor name +"inventor"
+*** Google Search for company that owns patent
+*** Google Search for Patent Number -"patents.google.com" -etc
+
+** Article Template:
+*** Standard formatting for patent detail, inventor info, company info, market impact, then
+*** Detailed explanation and why it's innovative
+
+** Systems
+** Fitness
+** Health
+
+
+
+* Projects:
+** Emacs
+** Org-Mode
+** [[id:82b511b6-cc25-43f6-bfa9-3c4a56a7ebff][Org-Roam]]
+** Python
+** Innovation of the Day
+** Onshape

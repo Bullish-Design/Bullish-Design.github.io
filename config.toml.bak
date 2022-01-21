@@ -2,19 +2,19 @@ title = "Bullish Design"
 baseURL = "https://Bullish-Design.github.io"
 languageCode = "en-us"
 theme = "ananke"
-themesDir = "./content/themes"
-resourceDir = "./content/resources"
+themesDir = "./Site-Content/themes"
+resourceDir = "./Site-Content/resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
   [languages.en]
     title = "Bullish Design"
-    weight = 10
+    weight = 1
     contentDir = "./content/Posts"
 #  [languages.fr]
 #    title = "Mon blogue"
